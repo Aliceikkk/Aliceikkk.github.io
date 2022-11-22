@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>第一篇文章</title>
+      <title>欢迎来到一心净土</title>
       <link href="/2022/11/21/hello-world/"/>
       <url>/2022/11/21/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://ashking.ltd/">Alice</a>! </p><p>目前还未完善 敬请期待</p>]]></content>
+        <content type="html"><![CDATA[<pre><code>                                                                                        旅行者 欢迎你的到来</code></pre>]]></content>
       
       
       
